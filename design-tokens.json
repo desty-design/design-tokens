@@ -1,0 +1,46 @@
+{
+  "global": {
+    "Sapphire": {
+      "Sapphire-900": {
+        "value": "#000459",
+        "type": "color"
+      },
+      "Sapphire-800": {
+        "value": "#00066C",
+        "type": "color"
+      },
+      "Sapphire-700": {
+        "value": "#000986",
+        "type": "color"
+      },
+      "Sapphire-600": {
+        "value": "#000DA0",
+        "type": "color"
+      },
+      "Sapphire-500": {
+        "value": "#0011BB",
+        "type": "color"
+      },
+      "Sapphire-400": {
+        "value": "#3545D6",
+        "type": "color"
+      },
+      "Sapphire-300": {
+        "value": "#5D6DEA",
+        "type": "color"
+      },
+      "Sapphire-200": {
+        "value": "#94A0F8",
+        "type": "color"
+      },
+      "Sapphire-100": {
+        "value": "#C9CFFB",
+        "type": "color"
+      },
+      "Sapphire-50": {
+        "value": "#EFF2FF",
+        "type": "color"
+      }
+    }
+  }
+}
